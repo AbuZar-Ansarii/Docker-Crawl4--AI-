@@ -41,11 +41,7 @@ docker pull unclecode/crawl4ai:latest
 ### Step 2: Run the Container
 Run the pre-built image
 ```
-docker run -d \
-  -p 11235:11235 \
-  --name crawl4ai \
-  --shm-size=1g \
-  unclecode/crawl4ai:latest
+docker run -d -p 11235:11235 --name crawl4ai --shm-size=1g unclecode/crawl4ai:latest
 ```
 ## 🌐 Access Dashboard
 Once the container is running, access the Crawl4AI web dashboard:
