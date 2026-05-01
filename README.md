@@ -112,8 +112,12 @@ docker logs -f crawl4ai
 ## 📊 Features
 Feature	Description
 🤖 AI-Powered	Intelligent content extraction
+
 🔄 Dynamic Content	Handles JavaScript-rendered pages
+
 📱 Responsive	Mobile-friendly dashboard
+
 🚀 High Performance	Optimized with shared memory
+
 🔒 Production Ready	Dockerized for easy deployment
 
