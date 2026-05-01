@@ -79,6 +79,10 @@ docker run -d \
   --shm-size=1g \
   crawl4ai-local:latest
 ```
+<div align="center">
+🌐 http://localhost:11235/dashboard
+</div>
+
 ## Step 3: Quick Commands Reference
 ```
 # Stop the container
@@ -112,3 +116,4 @@ Feature	Description
 📱 Responsive	Mobile-friendly dashboard
 🚀 High Performance	Optimized with shared memory
 🔒 Production Ready	Dockerized for easy deployment
+
